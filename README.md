@@ -27,6 +27,7 @@
 | **Personal Website** | Ghost, Handlebars, PostCSS & JavaScript |               [VER](filisantillan.com)               | [VER](https://github.com/FiliSantillan/filisantillan.com) |
 | **Asynchronism**     | HTML, CSS & JavaScript                  | [VER](https://filisantillan.github.io/asynchronism/) |   [VER](https://github.com/FiliSantillan/asynchronism)    |
 | **JS Router**        | HTML, CSS & JavaScript                  |    [VER](https://js-vanilla-router.netlify.app/)     |     [VER](https://github.com/FiliSantillan/js-router)     |
+| **JS SPA**           | HTML, CSS & JavaScript                  |      [VER](https://js-vanilla-spa.netlify.app/)      |  [VER](https://github.com/FiliSantillan/js-vanilla-spa)   |
 
 ## 🤓 Learn something today
 
